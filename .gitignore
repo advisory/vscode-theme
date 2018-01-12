@@ -1,0 +1,8 @@
+.vscode/
+.vault/
+
+index.js
+theme.json
+
+node_modules/
+

@@ -1,0 +1,32 @@
+{
+  "name": "eab-syntax-theme",
+  "displayName": "EAB Syntax Theme",
+  "publisher": "mwjaworski",
+  "description": "A vibrant, professional theme based on EAB's color palette",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "prestart": "tsc index.ts",
+    "start": "node index.js"
+  },
+  "engines": {
+    "vscode": "^1.11.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "EAB Standard Syntax Theme",
+        "uiTheme": "vs-dark",
+        "path": "./theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.10",
+    "typescript": "^2.2.1",
+    "vscode-theme-generator": "*"
+  }
+}
