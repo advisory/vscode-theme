@@ -14,7 +14,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "eab-global.png",
+  "icon": "https://github.com/advisory/vscode-theme/blob/master/eab-global.png",
   "galleryBanner": {
     "color": "#2a6fb8"
   },
