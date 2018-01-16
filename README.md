@@ -1,17 +1,7 @@
-# vscode-theme-generator-quick-start
+# EAB Global VSCode Theme
 
-**Clone and run for a quick way to get started with [vscode-theme-generator](https://github.com/Tyriar/vscode-theme-generator).**
+A soft, professional EAB-themed syntax for Typescript development in Microsoft VSCode. Optimized for front-end development, SCSS, Stylus, CSS, HTML, JS, TS and JSON.
 
-## How to build the theme
+### Publishing
 
-You need [NodeJS](https://nodejs.org/en/) installed to run the generator.
-
-```js
-npm install
-```
-
-Make your changes to the colors in index.ts and hit F5 to build the theme and launch the a new VS Code window with your theme available in the command palette (`ctrl`/`cmd+shift+p` > "Color Theme").
-
-## Publishing
-
-When you're ready to publish your theme just fill out the `"name"`, `"displayName", `"publisher"` and `"description"` values in the package.json and [publish it like any other extension](https://code.visualstudio.com/docs/extensions/publish-extension).
+To publish invoke `vsce publish -p <personal access token>`. The Personal Access Token is for `eab-global`
