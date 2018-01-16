@@ -1,3 +1,7 @@
+## 0.0.4
+
+- FIXED readme filename
+
 ## 0.0.3
 
 - ADDED icon
