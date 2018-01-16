@@ -11,10 +11,14 @@
   "engines": {
     "vscode": "^1.11.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/advisory/vscode-theme.git"
+  },
   "categories": [
     "Themes"
   ],
-  "icon": "https://github.com/advisory/vscode-theme/blob/master/eab-global.png",
+  "icon": "eab-global.png",
   "galleryBanner": {
     "color": "#2a6fb8"
   },
