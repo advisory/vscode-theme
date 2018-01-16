@@ -1,3 +1,7 @@
+## 0.0.6
+
+- FIXED anti-aliased the icon
+
 ## 0.0.5
 
 - FIXED icon should be a circle
