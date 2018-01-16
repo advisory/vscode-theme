@@ -18,9 +18,9 @@
   "categories": [
     "Themes"
   ],
-  "icon": "eab-global.png",
+  "icon": "eab-global--circle.png",
   "galleryBanner": {
-    "color": "#2a6fb8"
+    "color": "#DBE9F9"
   },
   "contributes": {
     "themes": [

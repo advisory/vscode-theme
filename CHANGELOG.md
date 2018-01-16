@@ -1,3 +1,7 @@
+## 0.0.5
+
+- FIXED icon should be a circle
+
 ## 0.0.4
 
 - FIXED readme filename
